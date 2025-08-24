@@ -8,11 +8,4 @@ Currently, all my repositories are private. While I don't maintain a presence on
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pomilon&layout=compact&hide=javascript,css,html)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pomilon&bg_color=ffffff&color=222222&line=008080&point=222222&area=true&hide_border=true)
-
----
-
 > "Tech nerd and hobbyist, I try building whatever idea comes to my mind."
