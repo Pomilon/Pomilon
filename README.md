@@ -19,7 +19,7 @@ I mostly work with Python, Node.js, and Docker, using Linux as my primary enviro
 
 ---
 
-[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/pomilon) • [Pomilon Intelligence Lab](https://github.com/pomilon-lab)
+[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/pomilon) • [Pomilon Intelligence Lab](https://github.com/pomilon-intelligence-lab)
 
 > "Tech nerd and hobbyist, I try building whatever idea comes to my mind."
 > 
