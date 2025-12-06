@@ -12,7 +12,7 @@ When a project works well enough to share, I put it here.
 
 * **[ManhwaSearch](https://github.com/pomilon/ManhwaSearch)** - A self-hosted scraper and reader I built to keep track of my reading library.
 * **[Linux Software Store](https://github.com/pomilon/linux-software-store)** - A lightweight GUI software manager for Linux systems.
-* **[Pomilon Intelligence Lab](https://github.com/pomilon-lab)** - A separate organization where I host the source code for my experimental AI models.
+* **[Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)** - A separate organization where I host the source code for my experimental AI models.
 
 ### Technologies
 I mostly work with Python, Node.js, and Docker, using Linux as my primary environment.
