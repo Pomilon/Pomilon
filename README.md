@@ -16,6 +16,7 @@ When a project works well enough to share, I put it here.
 
 ### Technologies
 I mostly work with Python, Node.js, and Docker, using Linux as my primary environment.
+Languages I know: C/C++, C#, Python, javascript.
 
 ---
 
