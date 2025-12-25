@@ -1,26 +1,21 @@
 # Hi, I'm Pomilon
 
-I'm a university student and technology enthusiast who enjoys building projects based on spontaneous ideas.
+I’m a university student and hobbyist developer. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
 
-I tend to approach coding with curiosity rather than a strict plan. While I started out with web development, lately I've been spending most of my time exploring artificial intelligence and local LLMs. I like figuring out how to make complex software run on my own hardware, usually learning by breaking things along the way.
+### Things I'm working on
 
-### Current Status
-Most of my active work is currently in private repositories. I'm using them to run personal experiments with autonomous agents, voice interfaces, and game integrations. I prefer to keep these under wraps until they are stable enough to actually use.
+* [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
+* [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
+* **[Sonir](https://github.com/Pomilon/Sonir)**: A physics-based audio visualizer.
+* **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
+* **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
 
-### Public Projects
-When a project works well enough to share, I put it here.
+### Tools & Languages
 
-* **[ManhwaSearch](https://github.com/pomilon/ManhwaSearch)** - A self-hosted scraper and reader I built to keep track of my reading library.
-* **[Linux Software Store](https://github.com/pomilon/linux-software-store)** - A lightweight GUI software manager for Linux systems.
-* **[Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)** - A separate organization where I host the source code for my experimental AI models.
-
-### Technologies
-I mostly work with Python, Node.js, and Docker, using Linux as my primary environment.
-Languages I know: C/C++, C#, Python, javascript.
+I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
 
 ---
 
-[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/pomilon) • [Pomilon Intelligence Lab](https://github.com/pomilon-intelligence-lab)
+[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/Pomilon) • [Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)
 
-> "Tech nerd and hobbyist, I try building whatever idea comes to my mind."
-> 
+> "Just building whatever comes to mind."
