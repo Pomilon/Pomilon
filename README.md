@@ -10,6 +10,9 @@ I’m a university student and hobbyist developer. I enjoy building things from 
 * **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
 * **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
 
+### Current Status
+I have several projects currently in private repositories. I'm working on stabilizing them and hope to move them to public repositories once they are ready for use.
+
 ### Tools & Languages
 
 I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
