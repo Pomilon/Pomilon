@@ -9,7 +9,8 @@ I’m a university student and hobbyist developer. I enjoy building things from 
 * **[Sonir](https://github.com/Pomilon/Sonir)**: A physics-based audio visualizer.
 * **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
 * **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
-* **[Plexir](https://github.com/Pomilon/Plexir)**: a modular, keyboard-centric AI terminal workspace
+* **[Plexir](https://github.com/Pomilon/Plexir)**: a modular, keyboard-centric AI terminal workspace.
+* **[Kognit](https://github.com/Pomilon/Kognit)**: An AI technical biographer that audits GitHub profiles, producing professional persona reports, humor profiles, and savage roasts.
 
 ### Current Status
 I have several projects currently in private repositories. I'm working on stabilizing them and hope to move them to public repositories once they are ready for use.
