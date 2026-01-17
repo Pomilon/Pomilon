@@ -19,6 +19,10 @@ I have several projects currently in private repositories. I'm working on stabil
 
 I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
 
+### Why I Build Things
+
+I build projects for my own enjoyment and self-satisfaction, because I can, and because I genuinely love creating. Sharing my work is a way to let others peek into my ideas and experiments, even if most of them are just personal explorations. Nothing is done to impress, it’s all about curiosity, learning, and having fun along the way. (even if sometimes they drive me insane)
+
 ---
 
 [Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/Pomilon) • [Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)
