@@ -6,6 +6,7 @@ I’m a university student and hobbyist developer. I enjoy building things from 
 
 * [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
 * [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
+* [**ALSI**](https://github.com/Pomilon-Intelligence-Lab/ALSI): Experiments in semantic control of state space models through latent state injection.
 * **[Sonir](https://github.com/Pomilon/Sonir)**: A physics-based audio visualizer.
 * **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
 * **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
