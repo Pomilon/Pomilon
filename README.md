@@ -24,7 +24,9 @@ I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
 
 I build projects for my own enjoyment and self-satisfaction, because I can, and because I genuinely love creating. Sharing my work is a way to let others peek into my ideas and experiments, even if most of them are just personal explorations. Nothing is done to impress, it’s all about curiosity, learning, and having fun along the way. (even if sometimes they drive me insane)
 
-### Perpetual cylce
+Many of my public repositories represent ongoing research or exploratory work rather than finished products.
+
+### Perpetual cycle
 
 ```
 Me
