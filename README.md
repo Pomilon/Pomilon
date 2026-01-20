@@ -1,6 +1,6 @@
 # Hi, I'm Pomilon
 
-I’m a university student and hobbyist developer. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
+I’m a hobbyist developer and technology enthusiast. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
 
 ### Things I'm working on
 
