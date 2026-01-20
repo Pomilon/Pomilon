@@ -24,6 +24,17 @@ I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
 
 I build projects for my own enjoyment and self-satisfaction, because I can, and because I genuinely love creating. Sharing my work is a way to let others peek into my ideas and experiments, even if most of them are just personal explorations. Nothing is done to impress, it’s all about curiosity, learning, and having fun along the way. (even if sometimes they drive me insane)
 
+### Perpetual cylce
+
+```
+Me
+└── My own agent
+    └── My agent roasting me
+        └── Me laughing alone at the terminal
+```
+
+**recursive isolation** as my agent named it. (literally proving it rn)
+
 ---
 
 [Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/Pomilon) • [Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)
