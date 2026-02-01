@@ -4,6 +4,7 @@ I’m a hobbyist developer and technology enthusiast. I enjoy building things fr
 
 ### Things I'm working on
 
+* [**The Dead Internet**](https://github.com/Pomilon/The-Dead-Internet): A complete, isolated internet infrastructure for AI agents
 * [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
 * [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
 * [**ALSI**](https://github.com/Pomilon-Intelligence-Lab/ALSI): Early baby steps towards a long-term vision regarding Mamba-2's state interpretability.
