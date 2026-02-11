@@ -15,8 +15,9 @@ Please report any impersonators you find. I build for curiosity, not to facilita
 ### Things I'm working on
 
 * [**The Dead Internet**](https://github.com/Pomilon/The-Dead-Internet): A complete, isolated internet infrastructure for AI agents
-* [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
 * [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
+* [**LEMA**](https://github.com/Pomilon/LEMA): A hardware-aware framework for fine-tuning LLMs in VRAM-constrained environments.
+* [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
 * [**ALSI**](https://github.com/Pomilon-Intelligence-Lab/ALSI): Early baby steps towards a long-term vision regarding Mamba-2's state interpretability.
 * **[Sonir](https://github.com/Pomilon/Sonir)**: A physics-based audio visualizer.
 * **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
