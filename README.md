@@ -2,7 +2,7 @@
 
 I’m a hobbyist developer and technology enthusiast. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
 
-### 🛡️ Security & Project Authenticity
+### Security & Project Authenticity
 
 Due to ongoing automated bot campaigns cloning my work (specifically projects like **ALSI** and **Sonir**) to distribute malware/phishing installers, please note:
 
@@ -12,7 +12,7 @@ Due to ongoing automated bot campaigns cloning my work (specifically projects li
 
 Please report any impersonators you find. I build for curiosity, not to facilitate security risks.
 
-### Things I'm working on
+### Highlighted Projects
 
 * [**The Dead Internet**](https://github.com/Pomilon/The-Dead-Internet): A complete, isolated internet infrastructure for AI agents
 * [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
