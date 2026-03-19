@@ -24,6 +24,7 @@ Please report any impersonators you find. I build for curiosity, not to facilita
 * **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
 * **[Plexir](https://github.com/Pomilon/Plexir)**: a modular, keyboard-centric AI terminal workspace.
 * **[Kognit](https://github.com/Pomilon/Kognit)**: An AI technical biographer that audits GitHub profiles, producing professional persona reports, humor profiles, and savage roasts.
+* **[Mnemonic](https://github.com/Pomilon/Mnemonic)**: A self-hosted search engine that learns from what you reject.
 
 ### Current Status
 I have several projects currently in private repositories. I'm working on stabilizing them and hope to move them to public repositories once they are ready for use.
