@@ -2,16 +2,6 @@
 
 I’m a hobbyist developer and technology enthusiast. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
 
-### Security & Project Authenticity
-
-Due to ongoing automated bot campaigns cloning my work (specifically projects like **ALSI** and **Sonir**) to distribute malware/phishing installers, please note:
-
-* **Official Sources:** My work is **ONLY** hosted under [github.com/Pomilon](https://github.com/Pomilon), [github.com/Pomilon-Intelligence-Lab](https://github.com/Pomilon-Intelligence-Lab), and [pomilon.xyz](https://pomilon.xyz).
-* **No Executables:** I do **not** provide `.exe`, `.dmg`, or standalone installers. My projects are research-oriented or source-based tools.
-* **Verify the Handle:** If you find a repository claiming to be mine that isn't under the official organizations above, or that asks you to "download the application" from a Releases page, **it is a malicious clone.**
-
-Please report any impersonators you find. I build for curiosity, not to facilitate security risks.
-
 ### Highlighted Projects
 
 * [**The Dead Internet**](https://github.com/Pomilon/The-Dead-Internet): A complete, isolated internet infrastructure for AI agents
