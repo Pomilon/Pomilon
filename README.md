@@ -15,7 +15,7 @@ I’m a hobbyist developer and technology enthusiast. I enjoy building things fr
 * **[Plexir](https://github.com/Pomilon/Plexir)**: a modular, keyboard-centric AI terminal workspace.
 * **[Kognit](https://github.com/Pomilon/Kognit)**: An AI technical biographer that audits GitHub profiles, producing professional persona reports, humor profiles, and savage roasts.
 * **[Mnemonic](https://github.com/Pomilon/Mnemonic)**: A self-hosted search engine that learns from what you reject.
-* **[SOLUM](https://github.com/Pomilon/SOLUM)**: A high-performance, unambiguous markup language and C++17 library designed to eliminate the "guessing game" of traditional Markdown.
+* **[SOLUM](https://github.com/Pomilon/SOLUM)**: A high-performance markup language that replaces Markdown's "magic" with strict, unambiguous rules.
 
 ### Current Status
 I have several projects currently in private repositories. I'm working on stabilizing them and hope to move them to public repositories once they are ready for use.
