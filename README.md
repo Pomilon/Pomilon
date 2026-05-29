@@ -81,6 +81,6 @@ My agent named this **"recursive isolation."** (I am literally proving its point
 
 ## Links
 
-[Website](https://www.google.com/search?q=) • [Hugging Face](https://www.google.com/search?q=) • [Pomilon Intelligence Lab](https://www.google.com/search?q=)
+[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/Pomilon) • [Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)
 
 > “Just building whatever comes to mind.”
