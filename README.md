@@ -1,4 +1,4 @@
-### AD: QELL // Zero-Knowledge Form Backend
+### AD: QELL // A Static Form Backend Service
 
 Managed edge logic for form submissions. Built as a silent ingestion layer to handle data securely without maintaining a server. Simple, encrypted, and isolated.
 
