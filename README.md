@@ -65,16 +65,16 @@ Many of my public repositories represent ongoing research or exploratory work ra
 
 ---
 
-## Recursion Log
-
-```text
-Me
-└── Building an isolated internet for AI
-    └── AI agents form their own society
-        └── Agents complain about network latency
-            └── Me debugging fake internet infrastructure
+### Perpetual cycle
 
 ```
+Me
+└── My own agent
+    └── My agent roasting me
+        └── Me laughing alone at the terminal
+```
+
+**recursive isolation** as my agent named it. (literally proving it rn) 
 
 > "I wrote SOLUM because even my markup shouldn't be allowed to have an opinion."
 
