@@ -1,3 +1,15 @@
+### AD: QELL // Zero-Knowledge Form Backend
+
+Managed edge logic for form submissions. Built as a silent ingestion layer to handle data securely without maintaining a server. Simple, encrypted, and isolated.
+
+[![Qell - Static Form Backend](assets/AD.png)](https://qell.pomilon.xyz)
+
+Visit over at: https://qell.pomilon.xyz  
+More info at: https://qell.pomilon.xyz/documentation
+If you need any help/support or want to report an issue visit: https://support.qell.pomilon.xyz/support
+
+---
+
 # Hi, I'm Pomilon
 
 I’m a hobbyist developer and technology enthusiast. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
