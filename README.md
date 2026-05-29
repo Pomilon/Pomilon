@@ -5,7 +5,7 @@ Managed edge logic for form submissions. Built as a silent ingestion layer to ha
 [![Qell - Static Form Backend](assets/AD.png)](https://qell.pomilon.xyz)
 
 Visit over at: https://qell.pomilon.xyz  
-More info at: https://qell.pomilon.xyz/documentation
+More info at: https://qell.pomilon.xyz/documentation  
 If you need any help/support or want to report an issue visit: https://support.qell.pomilon.xyz/support
 
 ---
