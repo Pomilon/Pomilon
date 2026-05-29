@@ -1,6 +1,6 @@
 # Hi, I'm Pomilon
 
-I’m a hobbyist developer and technology enthusiast focused on systems, experimental AI architectures, and low-level software design. I enjoy building things from scratch. Most of my work comes from exploring ideas that interest me rather than following predefined product goals. Whether it's language design, AI systems, game engines, or infrastructure experiments.
+I’m a hobbyist developer and technology enthusiast. I spend most of my time deep in systems, experimental AI architectures, and low-level software design. I don't really chase predefined product goals; I just build to see how things work under the hood. My work spans everything from custom language design and AI research to game engines and raw infrastructure experiments.
 
 ---
 
@@ -37,7 +37,7 @@ I’m a hobbyist developer and technology enthusiast focused on systems, experim
 
 ### Qell // Edge-Native Form Backend
 
-Qell is a lightweight ingestion layer for form submissions built on edge infrastructure. It processes requests at the edge, applies structured validation, and routes data securely without maintaining a server. It exists as a practical production system intended to support and fund my independent research and systems work.
+Qell is a lightweight ingestion layer for form submissions built on edge infrastructure. It processes requests at the edge, applies structured validation, and routes data securely without maintaining a server. It’s a practical, production-ready system I built to solve a real problem—and ideally, to help fund my independent research and late-night systems experiments.
 
 [![Qell - Static Form Backend](assets/AD.png)](https://qell.pomilon.xyz)
 
@@ -65,14 +65,15 @@ Many of my public repositories represent ongoing research or exploratory work ra
 
 ### Perpetual cycle
 
-```
+```text
 Me
 └── My own agent
-    └── My agent roasting me
-        └── Me laughing alone at the terminal
+    └── My agent roasting my code
+        └── Me laughing alone at the terminal at 2 AM
+
 ```
 
-**recursive isolation** as my agent named it. (literally proving it rn) 
+My agent named this **"recursive isolation."** (I am literally proving its point right now).
 
 > "I wrote SOLUM because even my markup shouldn't be allowed to have an opinion."
 
@@ -80,6 +81,6 @@ Me
 
 ## Links
 
-[Website]() • [Hugging Face]() • [Pomilon Intelligence Lab]()
+[Website](https://www.google.com/search?q=) • [Hugging Face](https://www.google.com/search?q=) • [Pomilon Intelligence Lab](https://www.google.com/search?q=)
 
 > “Just building whatever comes to mind.”
