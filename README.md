@@ -1,8 +1,6 @@
 # Hi, I'm Pomilon
 
-I’m a hobbyist developer, technology enthusiast, and builder focused on systems, experimental AI architectures, and low-level software design.
-
-I enjoy building things from scratch. Most of my work comes from exploring ideas that interest me rather than following predefined product goals. Whether it's language design, AI systems, game engines, or infrastructure experiments, my primary focus is just long-term research and seeing what I can make a machine do.
+I’m a hobbyist developer and technology enthusiast focused on systems, experimental AI architectures, and low-level software design. I enjoy building things from scratch. Most of my work comes from exploring ideas that interest me rather than following predefined product goals. Whether it's language design, AI systems, game engines, or infrastructure experiments.
 
 ---
 
