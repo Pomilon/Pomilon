@@ -1,62 +1,87 @@
-### AD: QELL // A Static Form Backend Service
+# Hi, I'm Pomilon
 
-Managed edge logic for form submissions. Built as a silent ingestion layer to handle data securely without maintaining a server. Simple, encrypted, and isolated.
+I’m a hobbyist developer, technology enthusiast, and builder focused on systems, experimental AI architectures, and low-level software design.
 
-[![Qell - Static Form Backend](assets/AD.png)](https://qell.pomilon.xyz)
-
-Visit over at: https://qell.pomilon.xyz  
-More info at: https://qell.pomilon.xyz/documentation  
-If you need any help/support or want to report an issue visit: https://support.qell.pomilon.xyz/support
+I enjoy building things from scratch. Most of my work comes from exploring ideas that interest me rather than following predefined product goals. Whether it's language design, AI systems, game engines, or infrastructure experiments, my primary focus is just long-term research and seeing what I can make a machine do.
 
 ---
 
-# Hi, I'm Pomilon
+## Highlighted Projects
 
-I’m a hobbyist developer and technology enthusiast. I enjoy building things from scratch, ranging from experimental AI architectures and low-level systems to creative tools and game engines. Most of my projects are just personal explorations of ideas that interest me.
+### AI / Systems / Research
 
-### Highlighted Projects
+* **[The Dead Internet](https://github.com/Pomilon/The-Dead-Internet)**: A complete, isolated internet infrastructure for AI agents.
+* **[CRSM](https://github.com/Pomilon-Intelligence-Lab/CRSM)** & **[Aetheris](https://github.com/Pomilon-Intelligence-Lab/Aetheris)**: Researching alternative AI models and reasoning architectures.
+* **[LEMA](https://github.com/Pomilon/LEMA)** & **[LEMA-llama](https://github.com/Pomilon/LEMA-llama)**: A hardware-aware framework for fine-tuning LLMs in VRAM-constrained environments.
+* **[ALSI](https://github.com/Pomilon-Intelligence-Lab/ALSI)**: Early exploration of structured state interpretability in modern AI models.
 
-* [**The Dead Internet**](https://github.com/Pomilon/The-Dead-Internet): A complete, isolated internet infrastructure for AI agents
-* [**CRSM**](https://github.com/Pomilon-Intelligence-Lab/CRSM) & [**Aetheris**](https://github.com/Pomilon-Intelligence-Lab/Aetheris): Researching alternative AI models and reasoning.
-* [**LEMA**](https://github.com/Pomilon/LEMA) & [**LEMA-llama**](https://github.com/Pomilon/LEMA-llama): A hardware-aware framework for fine-tuning LLMs in VRAM-constrained environments. LEMA-llama is a llama2 model fine-tuned using LEMA.
-* [**Pome**](https://github.com/Pomilon/Pome) & [**Peck**](https://github.com/Pomilon/Peck): A scripting language and its package manager.
-* [**ALSI**](https://github.com/Pomilon-Intelligence-Lab/ALSI): Early baby steps towards a long-term vision regarding Mamba-2's state interpretability.
+---
+
+### Languages / Infra / Tools
+
+* **[Pome](https://github.com/Pomilon/Pome)** & **[Peck](https://github.com/Pomilon/Peck)**: A scripting language and its package manager ecosystem.
+* **[SOLUM](https://github.com/Pomilon/SOLUM)**: A strict, high-performance markup language designed to remove implicit "magic" and opinionated behavior from documents.
+* **[Plexir](https://github.com/Pomilon/Plexir)**: A modular, keyboard-centric AI terminal workspace.
+* **[Mnemonic](https://github.com/Pomilon/Mnemonic)**: A self-hosted search engine that adapts and learns from the results you reject.
+
+---
+
+### Systems / Media / Engines
+
 * **[Sonir](https://github.com/Pomilon/Sonir)**: A physics-based audio visualizer.
 * **[Polir](https://github.com/Pomilon/Polir)**: A simple 2D game engine built with SDL2 and OpenGL.
 * **[ManhwaSearch](https://github.com/Pomilon/ManhwaSearch)**: A self-hosted scraper and reader.
-* **[Plexir](https://github.com/Pomilon/Plexir)**: a modular, keyboard-centric AI terminal workspace.
-* **[Kognit](https://github.com/Pomilon/Kognit)**: An AI technical biographer that audits GitHub profiles, producing professional persona reports, humor profiles, and savage roasts.
-* **[Mnemonic](https://github.com/Pomilon/Mnemonic)**: A self-hosted search engine that learns from what you reject.
-* **[SOLUM](https://github.com/Pomilon/SOLUM)**: A high-performance markup language that replaces Markdown's "magic" with strict, unambiguous rules.
+* **[Kognit](https://github.com/Pomilon/Kognit)**: An AI technical biographer that audits GitHub profiles to produce professional persona reports, humor profiles, and savage roasts.
 
-### Current Status
-I have several projects currently in private repositories. I'm working on stabilizing them and hope to move them to public repositories once they are ready for use.
+---
 
-### Tools & Languages
+## Supporting Project
 
-I mostly work with **C/C++**, **Python**, and **JavaScript/Node.js**.
+### Qell // Edge-Native Form Backend
 
-### Why I Build Things
+Qell is a lightweight ingestion layer for form submissions built on edge infrastructure. It processes requests at the edge, applies structured validation, and routes data securely without maintaining a server. It exists as a practical production system intended to support and fund my independent research and systems work.
+
+[![Qell - Static Form Backend](assets/AD.png)](https://qell.pomilon.xyz)
+
+[Website](https://qell.pomilon.xyz) • [Documentation](https://qell.pomilon.xyz/documentation) • [Support](https://support.qell.pomilon.xyz/support)
+
+---
+
+## Current Status
+
+I have several projects currently in private repositories while I stabilize and refine their architecture. I hope to move them into public repositories once they reach a usable or demonstrable state.
+
+## Tools & Languages
+
+**C / C++** • **Python** • **JavaScript / Node.js**
+
+---
+
+## Why I Build Things
 
 I build projects for my own enjoyment and self-satisfaction, because I can, and because I genuinely love creating. Sharing my work is a way to let others peek into my ideas and experiments, even if most of them are just personal explorations. Nothing is done to impress, it’s all about curiosity, learning, and having fun along the way. (even if sometimes they drive me insane)
 
 Many of my public repositories represent ongoing research or exploratory work rather than finished products.
 
-### Perpetual cycle
+---
 
-```
+## Recursion Log
+
+```text
 Me
-└── My own agent
-    └── My agent roasting me
-        └── Me laughing alone at the terminal
-```
+└── Building an isolated internet for AI
+    └── AI agents form their own society
+        └── Agents complain about network latency
+            └── Me debugging fake internet infrastructure
 
-**recursive isolation** as my agent named it. (literally proving it rn)
+```
 
 > "I wrote SOLUM because even my markup shouldn't be allowed to have an opinion."
 
 ---
 
-[Website](https://pomilon.xyz) • [Hugging Face](https://huggingface.co/Pomilon) • [Pomilon Intelligence Lab](https://github.com/Pomilon-Intelligence-Lab)
+## Links
 
-> "Just building whatever comes to mind."
+[Website]() • [Hugging Face]() • [Pomilon Intelligence Lab]()
+
+> “Just building whatever comes to mind.”
