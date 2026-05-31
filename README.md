@@ -12,7 +12,7 @@ I’m a hobbyist developer and technology enthusiast. I spend most of my time de
 * **[CRSM](https://github.com/Pomilon-Intelligence-Lab/CRSM)** & **[Aetheris](https://github.com/Pomilon-Intelligence-Lab/Aetheris)**: Researching alternative AI models and reasoning architectures.
 * **[LEMA](https://github.com/Pomilon/LEMA)** & **[LEMA-llama](https://github.com/Pomilon/LEMA-llama)**: A hardware-aware framework for fine-tuning LLMs in VRAM-constrained environments.
 * **[ALSI](https://github.com/Pomilon-Intelligence-Lab/ALSI)**: Early exploration of structured state interpretability in modern AI models.
-* **[DVOC](https://github.com/Pomilon-Intelligence-Lab/DVOC)**: A recursive visual feedback protocol for pixel-precise UI grounding with weak VLMs.
+* **[DVOC](https://github.com/Pomilon-Intelligence-Lab/DVOC)**: A recursive visual feedback protocol for pixel-precise UI grounding with weak VLMs. [paper](https://research.pomilon.xyz/papers/dvoc-damped-visual-offset-correction-enables-weak-model-ui-grounding-via-kinematic-control.pdf)
 
 ---
 
