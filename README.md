@@ -20,7 +20,6 @@ I’m a hobbyist developer and technology enthusiast. I spend most of my time de
 
 * **[Pome](https://github.com/Pomilon/Pome)** & **[Peck](https://github.com/Pomilon/Peck)**: A scripting language and its package manager ecosystem.
 * **[SOLUM](https://github.com/Pomilon/SOLUM)**: A strict markup language that removes implicit behavior and ambiguity from documents.
-* **[Plexir](https://github.com/Pomilon/Plexir)**: A modular, keyboard-centric AI terminal workspace.
 * **[Mnemonic](https://github.com/Pomilon/Mnemonic)**: A self-hosted search engine that adapts and learns from the results you reject.
 
 ---
